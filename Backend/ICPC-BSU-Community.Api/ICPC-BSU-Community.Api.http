@@ -1,0 +1,6 @@
+@ICPC_BSU_Community.Api_HostAddress = http://localhost:5248
+
+GET {{ICPC_BSU_Community.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
