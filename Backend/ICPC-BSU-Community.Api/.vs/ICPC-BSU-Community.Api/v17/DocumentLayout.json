@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\AWork\\ICPC-BSU-Community\\Backend\\ICPC-BSU-Community.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7075BDDA-5AEC-4BD0-811E-C6C22F5917E4}|ICPC-BSU-Community.Api.csproj|d:\\awork\\icpc-bsu-community\\backend\\icpc-bsu-community.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7075BDDA-5AEC-4BD0-811E-C6C22F5917E4}|ICPC-BSU-Community.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FE67FC96-E94A-43A7-82D0-C4D9FAD100B7}|ICPC-BSU-Community.Api.csproj|d:\\awork\\icpc-bsu-community\\backend\\icpc-bsu-community.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE67FC96-E94A-43A7-82D0-C4D9FAD100B7}|ICPC-BSU-Community.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,9 +40,9 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\AWork\\ICPC-BSU-Community\\Backend\\ICPC-BSU-Community.Api\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-09T19:10:01.851Z",
+              "WhenOpened": "2024-07-11T06:03:34.332Z",
               "EditorCaption": ""
             }
           ]
