@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>ICPC_BSU_Community.Service</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ICPC-BSU-Community.Core\ICPC-BSU-Community.Core.csproj" />
+    <ProjectReference Include="..\ICPC-BSU-Community.Infrastructure\ICPC-BSU-Community.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
