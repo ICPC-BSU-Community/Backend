@@ -1,4 +1,15 @@
+using ICPC_BSU_Community.Infrastructure.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+// Add Database 
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("LocalConnection"));
+});
+
 
 // Add services to the container.
 
